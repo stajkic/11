@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en"
+<head>
+ <meta charset="UTF-8>
+ <title>myWeb</title>
+ <style media="screen">
+   h1 {
+    color: skyblue;
+    font-size: 4en;
+   }
+ </style>
+</head>
+<body>
+ <h1>Moj prvi sajt</h1>
+</body>
+</html>
+ 
